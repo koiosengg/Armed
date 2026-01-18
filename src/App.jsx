@@ -7,6 +7,9 @@ import Services from "./components/Services";
 import Security from "./components/Security";
 import Hours from "./components/Hours";
 import Training from "./components/Training";
+import Contact from "./components/Contact";
+import Partnerships from "./components/Partnerships";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -19,6 +22,9 @@ function App() {
       <Security />
       <Hours />
       <Training />
+      <Partnerships />
+      <Contact />
+      <Footer />
     </>
   );
 }

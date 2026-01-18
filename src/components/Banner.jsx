@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/Banner/Logo.png";
+import Logo from "/Logo.png";
 import Anandan from "../assets/Banner/Anandan.png";
 
 function Banner() {
@@ -7,7 +7,7 @@ function Banner() {
     <section className="banner">
       <div className="banner-left">
         <header>
-          <img src={Logo} alt="Armed Fire Service"/>
+          <img src={Logo} alt="Armed Fire Service" />
           <p>
             Managing Director at <strong>Armed Fire Service, India</strong>
           </p>
