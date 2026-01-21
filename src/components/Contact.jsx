@@ -3,7 +3,7 @@ import Extinguisher from "../assets/Contact/Extinguisher.png";
 
 function Contact() {
   return (
-    <section className="contact">
+    <section className="contact" id="Contact">
       <div className="contact-container">
         <div className="contact-left">
           <header>
@@ -15,7 +15,11 @@ function Contact() {
           </header>
           <img src={Extinguisher} alt="Fire Extinguisher" className="desktop" />
         </div>
-        <form className="contact-form">
+        <form
+          className="contact-form"
+          action="https://formspree.io/f/xykkbnrp"
+          method="POST"
+        >
           <div className="contact-form-inputs">
             <div className="contact-form-inputs-container">
               <div className="contact-form-input-container">
