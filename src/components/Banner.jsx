@@ -22,7 +22,7 @@ function Banner() {
             protect life and property.
           </p>
         </div>
-        <a href="#" className="primary-button">
+        <a href="#Contact" className="primary-button">
           <p>Let’s Talk</p>
           <svg
             xmlns="http://www.w3.org/2000/svg"
