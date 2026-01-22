@@ -9,9 +9,9 @@ function Hours() {
           Working <br className="desktop" /> Hours
         </h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur. Ac consectetur sit diam massa.
-          Arcu duis posuere tellus iaculis tortor. Lorem ipsum dolor sit amet
-          consectetur. Ac consectetur sit diam massa.
+          Always open to meaningful conversations and collaborations, with the
+          below working hours to connect, exchange ideas, and build safer,
+          smarter solutions together as per your convenience.
         </p>
       </header>
       <div className="hours-img">

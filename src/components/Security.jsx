@@ -9,9 +9,9 @@ function Security() {
           Security <br className="desktop" /> Systems
         </h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur. Ac consectetur sit diam massa.
-          Arcu duis posuere tellus iaculis tortor. Lorem ipsum dolor sit amet
-          consectetur. Ac consectetur sit diam massa.
+          Delivering smart, technology-driven fire safety and security
+          solutions, built on innovation, integration, and a strong commitment
+          to safer, smarter environments.
         </p>
       </header>
       <div className="security-container">

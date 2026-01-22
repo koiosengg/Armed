@@ -9,8 +9,10 @@ function Contact() {
           <header>
             <h2>Contact Me</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur. Ac consectetur sit diam
-              massa. Arcu duis posuere tellus iaculis tortor.
+              <strong>We’d love to hear from you.</strong> Share your details
+              and requirements, and our team will get back to you within 48
+              hours to continue the conversation and explore the right solutions
+              together.
             </p>
           </header>
           <img src={Extinguisher} alt="Fire Extinguisher" className="desktop" />
