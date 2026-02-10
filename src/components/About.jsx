@@ -19,7 +19,7 @@ function About() {
           trainings, impacting 3 lakh+ individuals, and received multiple
           motivator awards. Beyond my profession, I am a passionate
           long-distance rider (Kashmir to Kanyakumari, Leh–Ladakh), marathon
-          runner, motivational speaker, and chairman of educational
+          runner, singer, motivational speaker, and chairman of educational
           institutions.
         </p>
       </div>
